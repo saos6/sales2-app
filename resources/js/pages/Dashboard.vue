@@ -7,7 +7,7 @@ import { dashboard } from '@/routes';
 
 const breadcrumbs: BreadcrumbItem[] = [
     {
-        title: 'Dashboard-2',
+        title: 'Dashboard-20260214-1',
         href: dashboard().url,
     },
 ];
